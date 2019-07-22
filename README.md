@@ -1,3 +1,3 @@
 # springConfig
 
-Look, configs
+config files for practice
